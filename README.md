@@ -7,7 +7,7 @@
 </p>
 
 ## Preview
-
+https://github.com/jxc03/dateFormatter/assets/153110695/c5529294-f0aa-4894-8011-e2315215541e
 
 ## Steps
 **S1**<br>
